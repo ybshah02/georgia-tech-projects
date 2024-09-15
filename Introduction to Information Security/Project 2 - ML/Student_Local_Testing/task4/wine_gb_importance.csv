@@ -1,0 +1,11 @@
+,Feature,Importance
+0,alcohol,0.3495
+1,volatile acidity,0.2107
+2,free sulfur dioxide,0.108
+3,residual sugar,0.06
+4,fixed acidity,0.0453
+5,citric acid,0.0451
+6,total sulfur dioxide,0.0426
+7,chlorides,0.0379
+8,density,0.0362
+9,sulphates,0.033
